@@ -1,0 +1,13 @@
+{
+  "name": "funny-worthy-donkey",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "git": "^0.1.5",
+    "next": "^12.1.10",
+    "parcel-bundler": "^1.6.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {}
+}

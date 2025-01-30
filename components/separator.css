@@ -1,0 +1,17 @@
+.separator-container {
+  width: 50%;
+  height: 5px;
+  display: flex;
+  position: relative;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-round);
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  background-image: linear-gradient(to right, #bdc3c7 0%, #2c3e50 100%);
+}
+ 
+.separatorroot-class-name {
+  align-self: center;
+}
+ 
+
