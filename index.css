@@ -1623,7 +1623,7 @@
   .home-text11 {
     left: 0px;
     width: auto;
-    height: 129px;
+    height: 155px;
     position: static;
   }
   .home-image1 {
@@ -1656,7 +1656,7 @@
     padding-bottom: var(--dl-space-space-twounits);
   }
   .home-services {
-    padding-top: var(--dl-space-space-twounits);
+    padding-top: var(--dl-space-space-sixunits);
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
